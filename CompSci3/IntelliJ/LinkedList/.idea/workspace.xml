@@ -2,40 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ecb1d2f-d646-4857-8820-4a99a839c38f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LinkedList/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedList/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LinkedList/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/META-INF/FactoryGame.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/A_Surface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/A_Surface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/AreasEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/AreasEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/BS_Surface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/BS_Surface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/B_Surface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/B_Surface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/BasicEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/BasicEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/BasicShapesEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/BasicShapesEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/BasicStrokesEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/BasicStrokesEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/C_Surface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/C_Surface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/CapsEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/CapsEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Clip_Shapes_Surface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Clip_Shapes_Surface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/ClippingEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/ClippingEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/ClippingShapesEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/ClippingShapesEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/ColorsEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/ColorsEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Colors_Surface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Colors_Surface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Comp_Surface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Comp_Surface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/CompositionEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/CompositionEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/FadeOutEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/FadeOutEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Fade_Surface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Fade_Surface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/G_Surface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/G_Surface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/GradientsEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/GradientsEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/J_Surface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/J_Surface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/JoinsEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/JoinsEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/L_Surface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/L_Surface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/LinesEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/LinesEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/P_Surface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/P_Surface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/PointsEx$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/PointsEx$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/PointsEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/PointsEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/RotationEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/RotationEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Rotation_Surface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Rotation_Surface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/SC_Surface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/SC_Surface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/S_Surface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/S_Surface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/ScalingEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/ScalingEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Scaling_Surface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Scaling_Surface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/SpotlightEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/SpotlightEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Spotlight_Surface$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Spotlight_Surface$MyMouseAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Spotlight_Surface$MyMouseAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Spotlight_Surface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Spotlight_Surface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/StarEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/StarEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Star_Surface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Star_Surface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/SunAndCloudEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/SunAndCloudEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Surface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Surface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/T_Surface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/T_Surface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/TexturesEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/TexturesEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/TranslationEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/TranslationEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Translation_Surface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Translation_Surface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/TransparentEx_Surface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/TransparentEx_Surface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/TransparentRectanglesEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/TransparentRectanglesEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Wait_Surface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/Wait_Surface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/WaitingEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/FactoryGame/com/company/WaitingEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/com/company/AreasEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/com/company/AreasEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/com/company/ClippingShapesEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/com/company/ClippingShapesEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/com/company/StarEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/com/company/StarEx.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-              <folding>
-                <element signature="e#118#119#0" expanded="true" />
-                <element signature="e#158#159#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,33 +83,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/LinkedList.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="960" />
-    <option name="height" value="1080" />
-  </component>
+  <component name="ProjectId" id="1RFFZWMpAjo0k2b4vTdnnrKg7GU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543411695474" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -117,57 +133,15 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="960" height="1080" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32820514" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32921812" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-          <folding>
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

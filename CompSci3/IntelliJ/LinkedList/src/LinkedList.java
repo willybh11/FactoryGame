@@ -10,6 +10,14 @@ public class LinkedList {
 
     Node head;
 
+    public void printAll() {
+        Node current = head;
+        while (current != null) {
+            System.out.println(current.data);
+            current = current.next;
+        }
+    }
+
     public void append(int data) {
         if (head == null) {
             head = new Node(data);

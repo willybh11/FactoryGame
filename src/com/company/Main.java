@@ -24,11 +24,11 @@ public class Main {
 //                TexturesEx ex = new TexturesEx();
 //                TransparentRectanglesEx ex = new TransparentRectanglesEx();
 //                FadeOutEx ex = new FadeOutEx();
-//                WaitingEx ex = new WaitingEx();
+                WaitingEx ex = new WaitingEx();
 //                CompositionEx ex = new CompositionEx();
 //                SunAndCloudEx ex = new SunAndCloudEx();
 //                SpotlightEx ex = new SpotlightEx();
-                ClippingEx ex = new ClippingEx();
+//                ClippingEx ex = new ClippingEx();
 //                ClippingShapesEx ex = new ClippingShapesEx();
 //                TranslationEx ex = new TranslationEx();
 //                RotationEx ex = new RotationEx();

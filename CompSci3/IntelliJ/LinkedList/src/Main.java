@@ -6,6 +6,9 @@ public class Main {
             LL.append(2);
             LL.append(3);
             LL.prepend(4);
+            LL.printAll();
             LL.deleteWithValue(4);
+            System.out.println("just deleted with value");
+            LL.printAll();
         }
 }
