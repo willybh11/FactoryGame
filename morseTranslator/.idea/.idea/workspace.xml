@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7a96299-b726-4aff-a1d0-731346ff7156" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../customString/customString.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customString/src/com/company/myString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompSci3/IntelliJ/LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CompSci3/IntelliJ/LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FactoryGame.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/Visualizer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/clouds.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/A_Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/AreasEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/BS_Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/B_Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/BasicEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/BasicShapesEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/BasicStrokesEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/C_Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/CapsEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/Clip_Shapes_Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/ClippingEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/ClippingShapesEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/ColorsEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/Colors_Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/Comp_Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/CompositionEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/FadeOutEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/Fade_Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/G_Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/GradientsEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/J_Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/JoinsEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/L_Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/LinesEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/P_Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/PointsEx$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/PointsEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/RotationEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/Rotation_Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/SC_Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/S_Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/ScalingEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/Scaling_Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/SpotlightEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/Spotlight_Surface$MyMouseAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/Spotlight_Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/StarEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/Star_Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/SunAndCloudEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/T_Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/TexturesEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/TranslationEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/Translation_Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/TransparentEx_Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/TransparentRectanglesEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/Wait_Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/com/company/WaitingEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/java.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/pane.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/penguin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/slate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/FactoryGame/sun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Visualizer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/clouds.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/AreasEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/BasicEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/BasicShapesEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/BasicStrokesEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/CapsEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/ClippingEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/ClippingShapesEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/ColorsEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/CompositionEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/FadeOutEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/GradientsEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/JoinsEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/LinesEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/PointsEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/RotationEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/ScalingEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/SpotlightEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/StarEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/SunAndCloudEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/TexturesEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/TranslationEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/TransparentRectanglesEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/WaitingEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/java.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pane.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/penguin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/slate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/sun.png" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S0pRLD06X4qWBkFP0THLf5z9lL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../morseTranslator" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="something_interesting" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7a96299-b726-4aff-a1d0-731346ff7156" name="Default Changelist" comment="" />
+      <created>1570710357509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570710357509</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
